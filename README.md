@@ -15,6 +15,7 @@ Using np.linalg.inv(),we can find the inverse of a matrix
 End the program
 
 ## Program:
+```
 #Program to find the inverse of a matrix.
 #Developed by:gowtham u 
 #RegisterNumber:212225040099
@@ -24,6 +25,7 @@ import numpy as np
 a=np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
 x=np.linalg.inv(a)
 print(x)
+```
 ## Output:
 <img width="936" height="197" alt="image" src="https://github.com/user-attachments/assets/f64abdc3-236e-48df-860a-5809fa1b4ed4" />
 
